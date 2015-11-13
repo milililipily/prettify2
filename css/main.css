@@ -1,4 +1,4 @@
-*{outline: 1px solid red;}/*Esto se usa para saber los espacios que ocupa*/
+/**{outline: 1px solid red;}*/
 
 body {
 	color:#555555;
@@ -92,7 +92,7 @@ h3{
 .contexto{
 	background: url("../images/tile2.png");
 	margin-top: 80px;
-	height: 500px;
+	height: 300px;
 }
 
 .contactos ul li{
@@ -104,4 +104,3 @@ h3{
 	width: 200px;
 	margin-right: 20px;
 }
-.contexto h3
