@@ -59,7 +59,9 @@ h3{
 .header-content h1, h2{
 	color:#FFF;
 }
-
+.biografia p{
+	text-align: justify;
+}
 .about-me .biografia img {
 	float:left;
 	width: 195px;
